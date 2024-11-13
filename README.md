@@ -1,2 +1,2 @@
 # Lavadoras-Todo-lo-que-necesitas-saber
-Esta es solo una pagina con fines de educativos
+Esta es solo una pagina con fines educativos
